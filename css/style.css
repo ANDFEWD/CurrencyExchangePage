@@ -1,0 +1,21 @@
+html, body, header, #intro {
+	height: 100%;
+}
+
+#intro{
+	background: url(../img/pexels-photo-159888.jpeg);
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.currName{
+	color: #FF9800;
+	font-weight: 500;
+	font-size: 16px;
+}
+
+.currRate{
+	color: #FFFFFF;
+	font-weight: 500;
+	font-size: 16px;
+}
